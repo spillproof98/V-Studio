@@ -1,0 +1,18 @@
+{
+  "video": {
+    "src": "/uploads/video.mp4",
+    "trim": { "start": 0, "end": 10 }
+  },
+  "overlays": [
+    {
+      "text": "Hello World",
+      "x": 200,
+      "y": 120,
+      "start": 1,
+      "end": 5,
+      "fontSize": 42,
+      "color": "white"
+    }
+  ],
+  "aspectRatio": "16:9"
+}
